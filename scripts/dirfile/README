@@ -1,0 +1,6 @@
+#find_files.py use os.walk ergodic dirs or files.
+#base find_files dict. 
+#
+#get_file_checksum.py find same file.
+#
+
